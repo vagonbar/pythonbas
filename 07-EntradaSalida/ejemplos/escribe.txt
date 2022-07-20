@@ -1,0 +1,5 @@
+nueva línea 0
+nueva línea 1
+nueva línea 2
+línea agregada 3
+línea agregada 4

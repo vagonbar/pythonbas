@@ -1,0 +1,5 @@
+Archivo de líneas para pruebas.
+Línea 1 contando desde 0.
+Línea 2 contando desde 0.
+Línea 3 contando desde 0.
+El archivo tiene 5 líneas, numeradas de 0 a 4.
