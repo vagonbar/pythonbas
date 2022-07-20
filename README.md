@@ -55,8 +55,8 @@ E-mail: [vagonbar@fing.edu.uy](mailto:vagonbar@fing.edu.uy)
 
 ## Para instructores
 
-- Características del curso, para instructores (PDF)
-- Evaluación Python, características de una aplicación para la evaluación automática, a desarrollar (PDF).
+- [Características del curso](00-Admin/Caracteristicas.pdf)
+- [Evaluación automática](00-Admin/EvaluacionAutomatica.pdf), características de una aplicación para la evaluación automática, a desarrollar.
 
 
 ## Licencia
