@@ -50,7 +50,7 @@ E-mail: [vagonbar@fing.edu.uy](mailto:vagonbar@fing.edu.uy)
 
 11. Adicionales.
 
-    - [Ejemplo de documentación con pydoctor, TGZ](https://htmlpreview.github.io/?https://github.com/vagonbar/pythonbas/blob/main/11-Adicionales/epytext_example/html/index.html)
+    - [Ejemplo de documentación con pydoctor](https://htmlpreview.github.io/?https://github.com/vagonbar/pythonbas/blob/main/11-Adicionales/epytext_example/html/index.html).
 
 
 ## Para instructores
