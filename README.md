@@ -34,11 +34,11 @@ E-mail: [vagonbar@fing.edu.uy](mailto:vagonbar@fing.edu.uy)
 
 3. [Control de flujo](03-ControlFlujo/ControlFlujo.pdf). [Ejemplos](03-ControlFlujo/ejemplos).
 
-4. [Funciones](04-Funciones/Funciones.pdf). [Ejemplos](04-Funciones/ejemplos).  [Documentación de ejemplos](04-Funciones/ejemplos-html/index.html).
+4. [Funciones](04-Funciones/Funciones.pdf). [Ejemplos](04-Funciones/ejemplos).  [Documentación de ejemplos](https://htmlpreview.github.io/?https://github.com/vagonbar/pythonbas/blob/main/04-Funciones/ejemplos-html/index.html).
 
 5. [Estructuras de datos](05-EstructurasDeDatos/EstructurasDeDatos.pdf). [Ejemplos](05-EstructurasDeDatos/ejemplos).
 
-6. [Módulos](06-Modulos/Modulos.pdf). [Ejemplos](06-Modulos/ejemplos). [Documentación de paquetes ejemplo](06-Modulos/ejemplos/paqs_html/index.html).
+6. [Módulos](06-Modulos/Modulos.pdf). [Ejemplos](06-Modulos/ejemplos). [Documentación de paquetes ejemplo](https://htmlpreview.github.io/?https://github.com/vagonbar/pythonbas/blob/main/06-Modulos/ejemplos/paqs_html/index.html).
 
 7. [Entrada y salida](07-EntradaSalida/EntradaSalida.pdf). [Ejemplos](07-EntradaSalida/ejemplos).
 
@@ -50,7 +50,7 @@ E-mail: [vagonbar@fing.edu.uy](mailto:vagonbar@fing.edu.uy)
 
 11. Adicionales.
 
-    - [Ejemplo de documentación con pydoctor, TGZ](11-Adicionales/epytext_example.tgz)
+    - [Ejemplo de documentación con pydoctor, TGZ](https://htmlpreview.github.io/?https://github.com/vagonbar/pythonbas/blob/main/11-Adicionales/epytext_example/html/index.html)
 
 
 ## Para instructores

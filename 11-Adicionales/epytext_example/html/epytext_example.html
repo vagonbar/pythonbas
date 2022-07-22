@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+          "DTD/xhtml1-strict.dtd">
+<html>
+  <head>
+    <title>epytext_example : API documentation</title>
+
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <link rel="stylesheet" type="text/css" href="bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="apidocs.css" />
+  </head>
+  <body>
+
+    <nav class="navbar navbar-default">
+      <div class="container">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="index.html">
+            Ejemplo pydoctor API Documentation
+          </a>
+        </div>
+      </div>
+    </nav>
+
+    <div id="showPrivate">
+      <button class="btn btn-link" onclick="togglePrivate()">Toggle Private API</button>
+    </div>
+
+    <div class="container">
+
+      <div class="page-header">
+        <h1 class="package"><code>epytext_example</code> <small>package documentation</small></h1>
+
+        <span id="partOf">
+          
+          
+          
+        </span>
+      </div>
+
+      <div class="extrasDocstring">
+        
+      </div>
+
+      <div class="moduleDocstring">
+        <div><p>Ejemplo de documentación en Python generada con <a href="https://github.com/twisted/pydoctor/" target="_top">pydoctor</a>.</p><p>Un paquete es un directorio con un archivo <code>__init__.py</code>, necesario para que se reconozca el directorio como un paquete de Python. Este archivo suele contener la descripción del paquete, pero también puede ser vacío. El nombre del paquete es el nombre del directorio.</p><p>Un módulo de este paquete es un archivo de extensión <code>.py</code> colocado en este directorio.</p><p>El directorio de este paquete:</p><pre class="literalblock">
+    epytext_example         # directorio del paquete, da nombre al paquete
+        __init__.py         # archivo que define el paquete
+        html                # directorio donde se genera la documentación
+        modulo_a.py         # un módulo de este paquete
+        modulo_a_run.py     # módulo con una función de prueba
+        paquete_2           # un sub paquete
+            __init__.py     # archivo que define el sub paquete
+            modulo_b.py     # otro módulo dentro de este sub paquete
+</pre><p>La línea anterior terminada con '::' indica que viene un bloque 'literal', a presentar tal cual. El bloque literal se escribe entre dos líneas en blanco. El código en los archivos <code>*.py</code> muestran lo esencial para generar documentación con <code>pydoctor</code>.</p><p>Para generar la documentación con pydoctor se requiere:</p><ol><li>instalar pydoctor.</li><li>escribir la documentación en el código tal como se muestra en este ejemplo.</li><li>generar las páginas HTML.</li></ol><p>Las páginas HTML se pueden crear con un comando similar al siguiente, invocado desde el directorio inmediato superior a <code>epytext_example</code>:</p><pre class="literalblock">
+    $ pydoctor --make-html --html-output=epytext_example/html --add-package=epytext_example --project-name="Ejemplo pydoctor"
+</pre><p>El lenguaje de marcado usado en pydoctor por defecto es Epytext, simple y expresivo; reStructuredText, usado por Sphinx, es más complejo y veboso. Epytext respeta la convención de documentación de Python (Python docstrings), que puede visualizarse en Python con el comando <code>help</code>:</p><pre class="py-doctest">
+<span class="py-prompt">&gt;&gt;&gt; </span><span class="py-keyword">import</span> epytext_example
+<span class="py-prompt">&gt;&gt;&gt; </span><span class="py-builtin">help</span>(epytext_example)
+<span class="py-prompt">&gt;&gt;&gt; </span><span class="py-keyword">from</span> epytext_example <span class="py-keyword">import</span> modulo_a
+<span class="py-prompt">&gt;&gt;&gt; </span><span class="py-builtin">help</span>(modulo_a)
+<span class="py-prompt">&gt;&gt;&gt; </span><span class="py-builtin">help</span>(modulo_a.ClaseA)</pre><p>Usar el formato de este ejemplo produce un Epytext válido para generar la documentación en HTML.</p><p><b>Lecturas recomendadas:</b></p><ul><li>The Epytext Markup Language, manual <a href="http://epydoc.sourceforge.net/manual-epytext.html" target="_top">http://epydoc.sourceforge.net/manual-epytext.  html</a></li></ul><p><b>Referencias:</b></p><ul><li>pydoctor en Github: <a href="https://github.com/twisted/pydoctor" target="_top">https://github.com/twisted/pydoctor</a></li><li><a href="http://epydoc.sourceforge.net/manual-docstring.html" target="_top">Epydoc, Python Docstrings</a></li><li><a href="http://epydoc.sourceforge.net/manual-epytext.html" target="_top">Epydoc, The Epytext Markup Language</a></li><li><a href="http://epydoc.sourceforge.net/manual-fields.html" target="_top">Epydoc Fields</a></li></ul></div>
+      </div>
+
+      <div id="splitTables">
+        <table class="children sortable" id="id1">
+  
+  <tr class="module">
+    
+    <td>Module</td>
+    <td><a href="epytext_example.modulo_a.html" class="code" data-type="Module">modulo_a</a></td>
+    <td><span>Documentación de módulo <code>modulo_a</code> descripción breve.</span></td>
+  </tr><tr class="module">
+    
+    <td>Module</td>
+    <td><a href="epytext_example.modulo_a_run.html" class="code" data-type="Module">modulo_a_run</a></td>
+    <td><span>Módulo para prueba de modulo_a.</span></td>
+  </tr><tr class="package">
+    
+    <td>Package</td>
+    <td><a href="epytext_example.paquete_2.html" class="code" data-type="Package">paquete_2</a></td>
+    <td><span>Paquete paquete_2, ejemplo de paquete contenido en otro.</span></td>
+  </tr>
+</table>
+        
+
+          
+      </div>
+
+      <div id="childList">
+
+        
+
+      </div>
+      <address>
+        <a href="index.html">API Documentation</a> for Ejemplo pydoctor, generated by <a href="https://github.com/twisted/pydoctor/">pydoctor</a> at 2022-04-13 10:34:09.
+      </address>
+
+    </div>
+
+    <script src="pydoctor.js" type="text/javascript"></script>
+
+  </body>
+</html>

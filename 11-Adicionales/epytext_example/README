@@ -1,0 +1,62 @@
+epytext_example
+===============
+
+Epytext con pydoctor, ejemplo de documentación.
+
+pydoctor
+--------
+
+Esta mini aplicación muestra la forma de escribir comentarios en el código Python para generar documentación en HTML y LaTeX usando pydoctor, https://github.com/twisted/pydoctor/. 
+
+El generador de documentación pydoctor es el sucesor de Epydoc; usa el lenguaje de marcado EpyText, que se distingue por las siguientes características:
+
+- respeta los docstrings de Python, visualizados en las terminales de Python con el comando "help".
+
+- resulta casi imperceptible al leer el código, no molesta al lector aunque no conozca el EpyText.
+
+- es muy fácil de aprender y sencillo de aplicar.
+
+- genera documentación en HTML y LaTeX; permite integración con Sphinx.
+
+
+Otros generadores de documentación
+----------------------------------
+
+Sphinx, https://www.sphinx-doc.org/en/master/.  
+  Originalmente creado para la documentación de Python, usa el lenguaje de marcado reStructuredText, más expresivo pero también más difícil de manejar y más verboso.
+
+Doxygen, https://www.doxygen.nl/index.html 
+  Originalmente creado para C++, soporta varios lenguajes de programación, entre ellos Python. Su forma de comentar el código sigue los lineamientos de comentarios para C++, que deben insertarse dentro de los comentarios de Python; esto lo hace más difícil de manejar, más verboso, y hace más incómodo leer el código. 
+
+
+Instalación de pydoctor
+-----------------------
+Es recomendable instalar desde el repositorio de pydoctor; las versiones en las distribuciones pueden no estar actualizadas, y no soportar algunas características, en particular el uso de docstrings Python en las variables de clase y de instancia.
+
+Para instalar la última versión:
+  Bajar el archivo zip desde el repositorio de pydoc,
+     https://github.com/twisted/pydoctor 
+
+  Ejecutar los siguientes comandos:
+    $ unzip pydoctor-master.zip
+    $ cd pydoctor-master
+    $ python3 setup.py --help
+    $ python3 setup.py build
+    $ sudo python3 setup.py install
+    $ which pydoctor
+    /usr/local/bin/pydoctor
+
+Ejemplo de uso para generación de documentación:
+    $ /usr/local/bin/pydoctor --help     # muestra opciones
+    $ cd <directorio donde se encuentra epytext_example>
+    $ pydoctor --make-html --html-output=epytext_example/html --add-package=epytext_example --project-name="Ejemplo pydoctor"
+
+La documentación se genera en epytex_example/html. 
+El directorio de package_add debe contener un archivo __init__.py.
+
+Escribir documentación para pydoctor
+------------------------------------
+En este ejemplo, el examen del código en los archivos *.py muestran lo esencial para escribir docstrings en el lenguaje de marcado EpyText procesable por pydoctor.
+
+
+
