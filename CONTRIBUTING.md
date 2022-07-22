@@ -11,12 +11,12 @@ La forma más directa de informar un error es mediante una *issue* (cuestión, a
 
 Los temas o *issues* refieren al material del curso, no a dudas sobre el manejo del lenguaje Python. No obstante, si alguna explicación no resulta clara, puede ser pertinente generar una *issue*. 
 
-La generación de temas (*issues*) requiere tener un usuario en Github. Si no se dispone de él, es posible contactar directamente a los autores tal como se indica en la sección [Contacto](#Contacto).
+La generación de temas (*issues*) requiere tener un usuario en Github. Si no se dispone de él, es posible contactar directamente a los autores tal como se indica en la sección [Contacto](#contacto).
 
 
 ## Consultas
 
-No es posible responder consultas sobre el manejo del lenguaje de programación Python. No obstante, si algún pasaje del curso no resulta claro o desea sugerirse un mejor enfoque, puede dirigirse un mensaje a los autores tal como se indica en la sección [Contacto](#Contacto).
+No es posible responder consultas sobre el manejo del lenguaje de programación Python. No obstante, si algún pasaje del curso no resulta claro o desea sugerirse un mejor enfoque, puede dirigirse un mensaje a los autores tal como se indica en la sección [Contacto](#contacto).
 
 
 ## Extensiones

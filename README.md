@@ -13,7 +13,7 @@ Python ha alcanzado una enorme popularidad en enseñanza, investigación y desar
  
 Existen mucho material para aprender Python; no tanto en español. En general, estos recursos son muy elementales o muy extensos. Este curso toma como referencia el Tutorial del sitio oficial de Python, pero se presenta como un intermedio entre un tutorial convencional y una "quick reference": apela esencialmente a la experimentación, buscando un rápido dominio del lenguaje con la menor necesidad de apoyo docente. 
 
-Una descripción más detallada de las características del curso se puede ver en la sección [Para instructores](#Para instructores) más adelante.
+Una descripción más detallada de las características del curso se puede ver en la sección [Para instructores](#para-instructores) más adelante.
 
 
 ## Contribuciones
