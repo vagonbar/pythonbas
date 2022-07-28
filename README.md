@@ -16,6 +16,15 @@ Existen mucho material para aprender Python; no tanto en español. En general, e
 Una descripción más detallada de las características del curso se puede ver en la sección [Para instructores](#para-instructores) más adelante.
 
 
+## Acceso
+
+Para seguir el curso, se recomienda bajar el archivo comprimido TGZ. Luego de descomprimir, se puede acceder a los tutoriales en PDF directamente o abriendo el archivo index.html en un navegador. Queda también disponible el código de los ejemplos y el HTML de su documentación.
+
+Si se prefiere clonar el repositorio, quedan también disponibles en el directorio local los originales de los tutoriales en ODT.
+
+Es posible leer los tutoriales directamnte en el repositorio, pero en Github los archivos PDF se visualizan como imágenes, y no funcionan los enlaces incluidos en el texto.
+
+
 ## Contribuciones
 
 Por errores, sugerencias, o formas de contribuir, por favor ver el documento [Contribuciones](CONTRIBUTING.md). En atención a una pàrticipación respetuosa y productiva, en este proyecto hemos adoptado el siguiente [Código de conducta](CODE_OF_CONDUCT.md)
