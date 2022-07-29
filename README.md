@@ -27,7 +27,7 @@ Es posible leer los tutoriales directamnte en el repositorio, pero en Github los
 
 ## Contribuciones
 
-Por errores, sugerencias, o formas de contribuir, por favor ver el documento [Contribuciones](CONTRIBUTING.md). En atención a una pàrticipación respetuosa y productiva, en este proyecto hemos adoptado el siguiente [Código de conducta](CODE_OF_CONDUCT.md)
+Por errores, sugerencias, o formas de contribuir, por favor ver el documento [Contribuciones](CONTRIBUTING.md). En atención a una participación respetuosa y productiva, en este proyecto hemos adoptado el siguiente [Código de conducta](CODE_OF_CONDUCT.md)
 
 
 ## Contacto
@@ -75,3 +75,4 @@ E-mail: [vagonbar@fing.edu.uy](mailto:vagonbar@fing.edu.uy)
 Esta obra está licenciada bajo la Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional. Para ver una copia de esta licencia, visite [http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/) o envíe una carta a Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 Documento de [Licencia](LICENSE.md).
+
