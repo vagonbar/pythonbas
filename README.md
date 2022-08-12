@@ -68,6 +68,15 @@ E-mail: [vagonbar@fing.edu.uy](mailto:vagonbar@fing.edu.uy)
 - [Evaluación automática](00-Admin/EvaluacionAutomatica.pdf), características de una aplicación para la evaluación automática, a desarrollar.
 
 
+## Cita
+
+Para citar este curso, por favor usar la siguiente información:
+
+Victor Gonzalez-Barbone, *Curso Básico de Python, versión 1.0*, fecha de publicación 12/08/2022. 
+
+[![DOI](https://zenodo.org/badge/516032450.svg)](https://zenodo.org/badge/latestdoi/516032450)
+
+
 ## Licencia
 
 [!["Creative Commons License"](imagenes/CC-By-SA-logo200x75.jpg "Licencia Creative Commons By-SA 4-0")](http://creativecommons.org/licenses/by-sa/4.0/) 
