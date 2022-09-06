@@ -61,10 +61,13 @@ E-mail: [vagonbar@fing.edu.uy](mailto:vagonbar@fing.edu.uy)
 
     - [Ejemplo de documentación con pydoctor](https://htmlpreview.github.io/?https://github.com/vagonbar/pythonbas/blob/main/11-Adicionales/epytext_example/html/index.html).
 
+    - [Git y Github, control de versiones](11-Adicionales/GitTutorial/GitTutorial.pdf).
+
 
 ## Para instructores
 
 - [Características del curso](00-Admin/Caracteristicas.pdf)
+
 - [Evaluación automática](00-Admin/EvaluacionAutomatica.pdf), características de una aplicación para la evaluación automática, a desarrollar.
 
 
